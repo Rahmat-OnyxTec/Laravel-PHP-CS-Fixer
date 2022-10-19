@@ -36,6 +36,8 @@ if you want to modify this yourself, just use artisan `php artisan vendor:publis
 and it will put the default configuration in 'config/fixer.php'. Check the  
 [PHP-CS-Fixer/README](https://github.com/FriendsOfPHP/PHP-CS-Fixer#usage) for valid rules.
 
+
+
 ## Usage
 #### Fix Your Code
 Fix your code with Laravel Coding Standards.
